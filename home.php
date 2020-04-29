@@ -19,6 +19,7 @@
 ?>
 <?php include ('component/head.php')?>
 <?php include ('component/navbar.php')?>
+	<body>
 	<div class="container" style="margin-top: 50px;">
 		<center><h1>Data COVID-19</h1></center>
 		<div class="clients-inner section-inner has-top-divider has-bottom-divider">
@@ -62,4 +63,5 @@
 			</table>
 		</div>
 	</div>			
-<?php include ('component/script.php')?>		
+<?php include ('component/script.php')?>
+</body>
