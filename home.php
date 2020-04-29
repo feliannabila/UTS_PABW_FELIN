@@ -64,4 +64,3 @@
 		</div>
 	</div>			
 <?php include ('component/script.php')?>
-</body>
