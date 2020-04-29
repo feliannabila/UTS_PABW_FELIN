@@ -102,6 +102,3 @@ if(isset($_REQUEST['btn_login']))
 			</div>
 		</div>
 		<?php include ('component/script.php')?>							
-	</body>
-
-</html>
