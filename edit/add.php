@@ -68,5 +68,4 @@ if (isset($_POST['submit'])) {
    </div>
 </div>
 <?php include("../component/script.php");?>
-</body>
 <?php include("../component/footer.php");?>
