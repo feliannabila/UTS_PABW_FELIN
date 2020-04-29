@@ -30,7 +30,6 @@ if($stmt->rowCount() > 0){
    </div>
 </div>
 <?php include("../component/script.php");?>
-</body>
 <?php include("../component/footer.php");?>
 
    
