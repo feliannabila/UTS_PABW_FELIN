@@ -96,5 +96,4 @@ if(isset($_REQUEST['btn_register']))
 				</div>
 			</div>
 										
-	</body>
-</html>
+<?php include ('component/script.php')?>
